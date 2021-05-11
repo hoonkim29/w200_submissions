@@ -1,0 +1,2 @@
+
+Virtual (conda) environments are my favorite new technology

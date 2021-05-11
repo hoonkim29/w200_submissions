@@ -1,0 +1,1 @@
+Virtual environments are good for creating a python environment that works separately from that of the machine. It allows users to install and use packages at their own needs without interfering with the actual environment setting of the machine.
